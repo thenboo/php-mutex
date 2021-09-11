@@ -1,4 +1,5 @@
 <?php
+// Kevin Cheng (18780126619), Chengdu, Sichuan, China
 class Mutex {
     protected static $instance;
 	private static $lockers = array();
